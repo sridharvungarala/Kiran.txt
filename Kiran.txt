@@ -1,2 +1,7 @@
 REza project
+<<<<<<< HEAD
 age = 21 sorry its 40 :)
+=======
+age = 21 sorry its 66 :)
+>>>>>>> 95020b6fd89564eeb6039b4e60d980b53c815193
+hey u
